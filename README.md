@@ -72,7 +72,10 @@ HackerPermKeeper
 <br/><img src="https://img.shields.io/badge/微信公众号-狐狸说安全-green">
 <br/><br/>
 
-## :world_map:感谢者名单
+## :world_map:贡献者名单
+琴，弱鸡，闲客，听雨，懒居，中二，好人，柚屿，雨夜，LonelyBoy，天赐福报，狐狸等师傅以及Github和众多开源项目师傅们的倾力支持。（排名不分先后顺序）
+
+<br/>
 
 ## :star2:Stargazers over time [![Stargazers over time](https://starchart.cc/One-Fox-Security-Team/One-Fox-T00ls.svg)](https://starchart.cc/One-Fox-Security-Team/One-Fox-T00ls)
 
