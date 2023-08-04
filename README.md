@@ -28,7 +28,8 @@
 ## :warning:安全申明
 工具申明
 使用此系统即自动同意武器库系统下载链接里面的免责声明内提到的条款与声明，不同意武器库系统下载链接里面的免责声明内提到的条款与声明的请自行删除此武器库系统，否则一切后果责任均自负，最终解释权归One-Fox安全团队与狐狸说安全微信公众号所有。
-
+<br/><br/>
+所使用的工具资源均来自于网友投稿及互联网整理，作者仅提供分享交流平台，不为其版权负责。如果您发现本镜像中有侵犯您（或贵司）知识产权的资源，请及时反馈，作者会第一时间进行修改或删除。
 
 <br/>
 
@@ -71,6 +72,7 @@ HackerPermKeeper
 <br/><img src="https://img.shields.io/badge/微信公众号-狐狸说安全-green">
 <br/><br/>
 
+## :world_map:感谢者名单
 
 ## :star2:Stargazers over time [![Stargazers over time](https://starchart.cc/One-Fox-Security-Team/One-Fox-T00ls.svg)](https://starchart.cc/One-Fox-Security-Team/One-Fox-T00ls)
 
