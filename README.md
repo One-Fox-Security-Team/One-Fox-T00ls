@@ -78,8 +78,10 @@ HackerPermKeeper
 有问题请提交issues<br/>
 <a href="https://github.com/One-Fox-Security-Team/One-Fox-T00ls/issues"><img src="https://badgen.net/github/issues/One-Fox-Security-Team/One-Fox-T00ls"></a>
 <br/>
-关注微信公众号进入微信群聊 
+关注微信公众号进入微信群聊[关注之后右下角点击联系我们加入群聊]
 <br/><img src="https://img.shields.io/badge/微信公众号-狐狸说安全-green">
+<br/>
+![图片](https://github.com/One-Fox-Security-Team/One-Fox-T00ls/assets/141384004/19584221-8104-4fa6-bea7-fb8c39071a91)
 <br/><br/>
 
 ## :world_map:贡献者名单
