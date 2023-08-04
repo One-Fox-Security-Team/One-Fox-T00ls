@@ -6,9 +6,9 @@
     <a href="https://www.one-fox.cn/">
       <img alt="GitHub Contributors" src="https://img.shields.io/badge/%E5%AE%89%E5%85%A8%E5%9B%A2%E9%98%9F-One--fox-pink" />
     </a>
-    <img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-%E7%8B%90%E7%8B%B8%E8%AF%B4%E5%AE%89%E5%85%A8-blue">
+    <img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-%E7%8B%90%E7%8B%B8%E8%AF%B4%E5%AE%89%E5%85%A8-green">
     <img src="https://badgen.net/github/stars/One-Fox-Security-Team/One-Fox-T00ls/?icon=github&color=black">
-    <img src="https://badgen.net/github/issues/One-Fox-Security-Team/One-Fox-T00ls">
+    <a href="https://github.com/One-Fox-Security-Team/One-Fox-T00ls/issues"><img src="https://badgen.net/github/issues/One-Fox-Security-Team/One-Fox-T00ls"></a>
 </p>
 
 
@@ -37,6 +37,14 @@
 
 
 <br/>
+
+## :zap:提交问题
+有问题请提交issues<br/>
+<a href="https://github.com/One-Fox-Security-Team/One-Fox-T00ls/issues"><img src="https://badgen.net/github/issues/One-Fox-Security-Team/One-Fox-T00ls"></a>
+<br/>
+关注微信公众号进入微信群聊 
+<br/><img src="https://img.shields.io/badge/微信公众号-狐狸说安全-green">
+<br/><br/>
 
 
 ## :star2:Stargazers over time [![Stargazers over time](https://starchart.cc/One-Fox-Security-Team/One-Fox-T00ls.svg)](https://starchart.cc/One-Fox-Security-Team/One-Fox-T00ls)
