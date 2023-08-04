@@ -92,6 +92,4 @@ HackerPermKeeper
 <a href="https://github.com/One-Fox-Security-Team">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=One-Fox-Security-Team"/>
 </a>
-<a href="https://github.com/One-Fox-Security-Team/One-Fox-T00ls">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=One-Fox-Security-Team&layout=compact&langs_count=8&card_width=320" />
-</a>
+
