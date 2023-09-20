@@ -45,32 +45,60 @@
 
 
 ## :rocket:工具截图
+<details>
+<summary><b>One-Fox-T00ls</b></summary>
+
 ```
 One-Fox-T00ls-v4.0 
 ```
 ![图片](https://github.com/One-Fox-Security-Team/One-Fox-T00ls/assets/141384004/66031b60-4409-48fd-8cfe-15175aeb51fb)
+</details>
+
+<details>
+<summary><b>应急响应工具箱</b></summary>
+
 ```
 应急响应工具箱
 ```
 ![图片](https://github.com/One-Fox-Security-Team/One-Fox-T00ls/assets/141384004/da5d8c09-b99d-488a-8b93-802a3d2b73ce)
+</details>
+
+<details>
+<summary><b>贺岁工具箱</b></summary>
 
 ```
 贺岁工具箱
 ```
 ![图片](https://github.com/One-Fox-Security-Team/One-Fox-T00ls/assets/141384004/e4da0e4b-1299-41e7-aadc-21daedaa6e3b)
+</details>
+
+<details>
+<summary><b>原创工具箱V1.2</b></summary>
+
 ```
 原创工具箱V1.2
 ```
 ![图片](https://github.com/One-Fox-Security-Team/One-Fox-T00ls/assets/141384004/e0b79776-1079-4051-9bec-6bff878ffd96)
+</details>
+
+
+<details>
+<summary><b>原创工具箱V1.2</b></summary>
+
 ```
 ONE-FOX单兵武器库
 ```
 ![图片](https://github.com/One-Fox-Security-Team/One-Fox-T00ls/assets/141384004/aad883dd-b97c-429e-a56d-1763753106ff)
+</details>
+
+<details>
+<summary><b>HackerPermKeeper</b></summary>
+
 ```
 HackerPermKeeper
 ```
 ![图片](https://github.com/One-Fox-Security-Team/One-Fox-T00ls/assets/141384004/81690435-17a7-437e-9e16-3bdf866199a8)
-
+</details>
 
 <br/>
 
