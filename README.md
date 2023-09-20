@@ -46,7 +46,7 @@
 
 ## :rocket:工具截图
 <details>
-<summary><b>One-Fox-T00ls</b></summary>
+<summary><b>:yum:One-Fox-T00ls</b></summary>
 
 ```
 One-Fox-T00ls-v4.0 
@@ -55,7 +55,7 @@ One-Fox-T00ls-v4.0
 </details>
 
 <details>
-<summary><b>应急响应工具箱</b></summary>
+<summary><b>:stuck_out_tongue:应急响应工具箱</b></summary>
 
 ```
 应急响应工具箱
@@ -64,7 +64,7 @@ One-Fox-T00ls-v4.0
 </details>
 
 <details>
-<summary><b>贺岁工具箱</b></summary>
+<summary><b>:stuck_out_tongue_winking_eye:贺岁工具箱</b></summary>
 
 ```
 贺岁工具箱
@@ -73,7 +73,7 @@ One-Fox-T00ls-v4.0
 </details>
 
 <details>
-<summary><b>原创工具箱V1.2</b></summary>
+<summary><b>:stuck_out_tongue_closed_eyes:原创工具箱V1.2</b></summary>
 
 ```
 原创工具箱V1.2
@@ -83,7 +83,7 @@ One-Fox-T00ls-v4.0
 
 
 <details>
-<summary><b>原创工具箱V1.2</b></summary>
+<summary><b>:hugs:ONE-FOX单兵武器库V1.2</b></summary>
 
 ```
 ONE-FOX单兵武器库
@@ -92,7 +92,7 @@ ONE-FOX单兵武器库
 </details>
 
 <details>
-<summary><b>HackerPermKeeper</b></summary>
+<summary><b>:shushing_face:HackerPermKeeper</b></summary>
 
 ```
 HackerPermKeeper
