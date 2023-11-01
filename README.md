@@ -32,7 +32,7 @@
 | 原创工具箱V1.2     | :window:	       | 无       | :star: :star: :star: :star: :star: :star: :star: :star:      | 适合新手直接使用         | <a href="https://pan.baidu.com/s/1z26Wyki0ZNEwp2YN-Flk8Q?pwd=ofox">链接</a> |
 | ONE-FOX单兵武器库v3.0  | 虚拟机        | 虚拟机   | :star: :star: :star: :star: :star: :star: :star: :star:      | 需要安装虚拟机           | <a href="https://pan.baidu.com/s/1D4jOaQHM7LUfFgrso5IhKA?pwd=ofox">链接</a> |
 | HackerPermKeeper   | :window:	/linux | python | :star: :star: :star: :star: :star: :star:                    | linux后渗透权限维持      | <a href="https://github.com/RuoJi6/HackerPermKeeper">链接</a> |
-| One-Fox-T00ls-v5.0 | :window:	 | python | :star: :star: :star: :star: :star: :star:                    | 适合新手直接使用     | <a href="https://pan.baidu.com/s/1ZKuGpSqH2kL57Er84gouaw?pwd=ofox">链接</a> |
+| One-Fox-T00ls-v5.0 | :window:	 | python | :star: :star: :star: :star: :star: :star: :star: :star::star:| 适合新手直接使用     | <a href="https://pan.baidu.com/s/1ZKuGpSqH2kL57Er84gouaw?pwd=ofox">链接</a> |
 
 <br/>
 
