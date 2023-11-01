@@ -102,7 +102,7 @@ HackerPermKeeper
 </details>
 
 <details>
-<summary><b>:shushing_face:One-Fox-T00ls-v5.0</b></summary>
+<summary><b>:yum:One-Fox-T00ls-v5.0</b></summary>
 
 ```
 One-Fox-T00ls-v5.0
