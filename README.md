@@ -26,7 +26,7 @@
 ## :hammer_and_pick:T00ls
 | 工具名             | 运行系统      | 依赖环境 | 推荐指数                                                     | 备注                     | 下载地址                                                     |
 | ------------------ | ------------- | -------- | ------------------------------------------------------------ | ------------------------ | ------------------------------------------------------------ |
-| One-Fox-T00ls-v4.0 | :window:	       | python   | :star: :star: :star: :star: :star: :star: :star: :star::star: | 适合新手直接使用         |<a href="https://pan.baidu.com/s/18ffwTaESerHbwuQt2c29Pw?pwd=ofox">链接</a>  |
+| One-Fox-T00ls-v8.0 | :window:	       | python   | :star: :star: :star: :star: :star: :star: :star: :star::star: | 推荐使用8.0版本         |<a href="https://mp.weixin.qq.com/s/vvx9b9J9rv4KBah0t30xKA">链接</a>  |
 | 应急响应工具箱     | :window:	       | 无       | :star: :star: :star: :star: :star: :star: :star: :star:      | 适合新手直接使用         | <a href="https://pan.baidu.com/s/1aLe78CmKu61-f7H5lZgdBg?pwd=ofox">链接</a> |
 | 贺岁工具箱         | :window:	       | 无       | :star: :star: :star: :star: :star: :star: :star: :star:      | 需要关注公众号获取授权码 | <a href="https://pan.baidu.com/s/1HsHU-JuEfIs--7ZuYLYFmw?pwd=ofox">链接</a> |
 | 原创工具箱V1.2     | :window:	       | 无       | :star: :star: :star: :star: :star: :star: :star: :star:      | 适合新手直接使用         | <a href="https://pan.baidu.com/s/1z26Wyki0ZNEwp2YN-Flk8Q?pwd=ofox">链接</a> |
@@ -47,12 +47,14 @@
 
 ## :rocket:工具截图
 <details>
-<summary><b>:yum:One-Fox-T00ls-v4.0</b></summary>
+<summary><b>:yum:One-Fox-T00ls-v8.0</b></summary>
 
 ```
-One-Fox-T00ls-v4.0 
+One-Fox-T00ls-v8.0 
 ```
-![图片](https://github.com/One-Fox-Security-Team/One-Fox-T00ls/assets/141384004/66031b60-4409-48fd-8cfe-15175aeb51fb)
+![c1d3273ffa1370c131ab8f538c2f835](https://github.com/user-attachments/assets/aab63fec-1b18-4c6d-ad03-ae55c55dc8b1)
+
+<img width="1016" alt="aebc310159758d672e7fe63d8090189" src="https://github.com/user-attachments/assets/2abd9b17-8538-4577-99c0-4b7668bbad40">
 </details>
 
 <details>
