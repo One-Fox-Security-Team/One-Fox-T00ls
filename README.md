@@ -48,6 +48,18 @@
 
 ## :rocket:工具截图
 <details>
+<summary><b>:yum:Web-Scanner</b></summary>
+
+```
+Web-Scanner
+```
+![c1d3273ffa1370c131ab8f538c2f835](https://github.com/user-attachments/assets/aab63fec-1b18-4c6d-ad03-ae55c55dc8b1)
+
+<img width="1016" alt="aebc310159758d672e7fe63d8090189" src="https://github.com/user-attachments/assets/2abd9b17-8538-4577-99c0-4b7668bbad40">
+</details>
+
+
+<details>
 <summary><b>:yum:One-Fox-T00ls-v8.0</b></summary>
 
 ```
