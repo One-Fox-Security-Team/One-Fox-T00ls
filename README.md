@@ -26,6 +26,7 @@
 ## :hammer_and_pick:T00ls
 | 工具名             | 运行系统      | 依赖环境 | 推荐指数                                                     | 备注                     | 下载地址                                                     |
 | ------------------ | ------------- | -------- | ------------------------------------------------------------ | ------------------------ | ------------------------------------------------------------ |
+| Web-Scanner | :window:	       | 无   | :star: :star: :star: :star: :star: :star: :star: :star::star: | WEB目录探测工具         |<a href="https://pan.quark.cn/s/c31b0b332cd6">链接</a>  |
 | One-Fox-T00ls-v8.0 | :window:	       | python   | :star: :star: :star: :star: :star: :star: :star: :star::star: | 推荐使用8.0版本         |<a href="https://mp.weixin.qq.com/s/vvx9b9J9rv4KBah0t30xKA">链接</a>  |
 | 应急响应工具箱     | :window:	       | 无       | :star: :star: :star: :star: :star: :star: :star: :star:      | 适合新手直接使用         | <a href="https://pan.baidu.com/s/1aLe78CmKu61-f7H5lZgdBg?pwd=ofox">链接</a> |
 | 贺岁工具箱         | :window:	       | 无       | :star: :star: :star: :star: :star: :star: :star: :star:      | 需要关注公众号获取授权码 | <a href="https://pan.baidu.com/s/1HsHU-JuEfIs--7ZuYLYFmw?pwd=ofox">链接</a> |
