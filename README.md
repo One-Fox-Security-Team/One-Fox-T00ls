@@ -55,7 +55,7 @@ Web-Scanner
 ```
 ![c1d3273ffa1370c131ab8f538c2f835](93D8DBF5-7D89-415F-8EC9-0FA067ED94A9.png)
 
-<img width="1016" alt="aebc310159758d672e7fe63d8090189" src="https://github.com/user-attachments/assets/2abd9b17-8538-4577-99c0-4b7668bbad40">
+
 </details>
 
 
@@ -67,6 +67,7 @@ One-Fox-T00ls-v8.0
 ```
 ![c1d3273ffa1370c131ab8f538c2f835](https://github.com/user-attachments/assets/aab63fec-1b18-4c6d-ad03-ae55c55dc8b1)
 
+<img width="1016" alt="aebc310159758d672e7fe63d8090189" src="https://github.com/user-attachments/assets/2abd9b17-8538-4577-99c0-4b7668bbad40">
 </details>
 
 <details>
