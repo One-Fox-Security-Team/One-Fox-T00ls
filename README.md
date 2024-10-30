@@ -26,6 +26,7 @@
 ## :hammer_and_pick:T00ls
 | 工具名             | 运行系统      | 依赖环境 | 推荐指数                                                     | 备注                     | 下载地址                                                     |
 | ------------------ | ------------- | -------- | ------------------------------------------------------------ | ------------------------ | ------------------------------------------------------------ |
+| FoxBypass_V1.0 | :window:	 | python | :star: :star: :star: :star: :star: :star: :star: :star::star:|   分离免杀加载器工具   | <a href="https://pan.quark.cn/s/6b625a91b80b">链接</a> |
 | Web-Scanner | :window:	       | Windows   | :star: :star: :star: :star: :star: :star: :star: :star::star: | WEB目录探测工具         |<a href="https://pan.quark.cn/s/c31b0b332cd6">链接</a>  |
 | One-Fox-T00ls-v8.0 | :window:	       | python   | :star: :star: :star: :star: :star: :star: :star: :star::star: | 推荐使用8.0版本         |<a href="https://mp.weixin.qq.com/s/vvx9b9J9rv4KBah0t30xKA">链接</a>  |
 | 应急响应工具箱     | :window:	       | 无       | :star: :star: :star: :star: :star: :star: :star: :star:      | 适合新手直接使用         | <a href="https://pan.baidu.com/s/1aLe78CmKu61-f7H5lZgdBg?pwd=ofox">链接</a> |
@@ -34,6 +35,7 @@
 | ONE-FOX单兵武器库v3.0  | 虚拟机        | 虚拟机   | :star: :star: :star: :star: :star: :star: :star: :star:      | 需要安装虚拟机           | <a href="https://pan.baidu.com/s/1D4jOaQHM7LUfFgrso5IhKA?pwd=ofox">链接</a> |
 | HackerPermKeeper   | :window:	/linux | python | :star: :star: :star: :star: :star: :star:                    | linux后渗透权限维持      | <a href="https://github.com/RuoJi6/HackerPermKeeper">链接</a> |
 | One-Fox-T00ls-v5.0 | :window:	 | python | :star: :star: :star: :star: :star: :star: :star: :star::star:| 适合新手直接使用     | <a href="https://pan.baidu.com/s/1ZKuGpSqH2kL57Er84gouaw?pwd=ofox">链接</a> |
+
 
 <br/>
 
@@ -47,6 +49,21 @@
 
 
 ## :rocket:工具截图
+<details>
+<summary><b>:yum:FoxBypass</b></summary>
+
+```
+FoxBypass
+```
+![图片](https://github.com/user-attachments/assets/b3cff3ce-054c-4d34-9cb1-7cb777d80056)
+![图片](https://github.com/user-attachments/assets/669f988e-9ab1-4ef9-8245-81577b10db33)
+![图片](https://github.com/user-attachments/assets/bfbf1915-7c72-4298-bf65-718d9d495e78)
+
+
+
+</details>
+
+
 <details>
 <summary><b>:yum:Web-Scanner</b></summary>
 
