@@ -68,7 +68,7 @@ CACM
 ```
 天狐渗透工具箱-社区版V2.0纪念版
 ```
-<img width="1080" height="617" alt="image" src="https://github.com/user-attachments/assets/09a2ad31-b003-4b1f-ad1e-8eeb93fac606" />
+![image](https://github.com/user-attachments/assets/305ee51c-2b1c-4882-bec3-23f3023fcc44)
 
 
 </details>
