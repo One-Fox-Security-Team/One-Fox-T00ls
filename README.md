@@ -26,6 +26,8 @@
 ## :hammer_and_pick:T00ls
 | 工具名             | 运行系统      | 依赖环境 | 推荐指数                                                     | 备注                     | 下载地址                                                     |
 | ------------------ | ------------- | -------- | ------------------------------------------------------------ | ------------------------ | ------------------------------------------------------------ |
+| CACM | :window:	 | 无 | :star: :star: :star: :star: :star: :star: :star: :star::star:|   linux后渗透+权限维持   | <a href="https://github.com/RuoJi6/CACM">链接</a> |
+| 天狐渗透工具箱-社区版V2.0纪念版 | :window:	 | 无 | :star: :star: :star: :star: :star: :star: :star: :star::star:|   适合新手直接使用    | <a href="https://pan.baidu.com/s/1BiLFnoOV4c2fJMpwsOGCcA?pwd=ofox">链接</a> |
 | FoxBypass_V1.0 | :window:	 | 无 | :star: :star: :star: :star: :star: :star: :star: :star::star:|   分离免杀加载器工具   | <a href="https://pan.quark.cn/s/6b625a91b80b">链接</a> |
 | Web-Scanner | :window:	       | Windows   | :star: :star: :star: :star: :star: :star: :star: :star::star: | WEB目录探测工具         |<a href="https://pan.quark.cn/s/c31b0b332cd6">链接</a>  |
 | One-Fox-T00ls-v8.0 | :window:	       | python   | :star: :star: :star: :star: :star: :star: :star: :star::star: | 推荐使用8.0版本         |<a href="https://mp.weixin.qq.com/s/vvx9b9J9rv4KBah0t30xKA">链接</a>  |
@@ -33,7 +35,6 @@
 | 贺岁工具箱         | :window:	       | 无       | :star: :star: :star: :star: :star: :star: :star: :star:      | 需要关注公众号获取授权码 | <a href="https://pan.baidu.com/s/1HsHU-JuEfIs--7ZuYLYFmw?pwd=ofox">链接</a> |
 | 原创工具箱V1.2     | :window:	       | 无       | :star: :star: :star: :star: :star: :star: :star: :star:      | 适合新手直接使用         | <a href="https://pan.baidu.com/s/1z26Wyki0ZNEwp2YN-Flk8Q?pwd=ofox">链接</a> |
 | ONE-FOX单兵武器库v3.0  | 虚拟机        | 虚拟机   | :star: :star: :star: :star: :star: :star: :star: :star:      | 需要安装虚拟机           | <a href="https://pan.baidu.com/s/1D4jOaQHM7LUfFgrso5IhKA?pwd=ofox">链接</a> |
-| HackerPermKeeper   | :window:	/linux | python | :star: :star: :star: :star: :star: :star:                    | linux后渗透权限维持      | <a href="https://github.com/RuoJi6/HackerPermKeeper">链接</a> |
 | One-Fox-T00ls-v5.0 | :window:	 | python | :star: :star: :star: :star: :star: :star: :star: :star::star:| 适合新手直接使用     | <a href="https://pan.baidu.com/s/1ZKuGpSqH2kL57Er84gouaw?pwd=ofox">链接</a> |
 
 
@@ -49,6 +50,29 @@
 
 
 ## :rocket:工具截图
+<details>
+<summary><b>:yum:CACM</b></summary>
+
+```
+CACM
+```
+<img width="2110" height="1392" alt="image" src="https://github.com/user-attachments/assets/305cf1b3-6b43-40cc-b713-a756affc8039" />
+
+
+
+</details>
+
+<details>
+<summary><b>:yum:天狐渗透工具箱-社区版V2.0纪念版</b></summary>
+
+```
+天狐渗透工具箱-社区版V2.0纪念版
+```
+<img width="1080" height="617" alt="image" src="https://github.com/user-attachments/assets/09a2ad31-b003-4b1f-ad1e-8eeb93fac606" />
+
+
+</details>
+
 <details>
 <summary><b>:yum:FoxBypass</b></summary>
 
