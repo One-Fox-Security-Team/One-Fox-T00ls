@@ -26,6 +26,7 @@
 ## :hammer_and_pick:T00ls
 | 工具名             | 运行系统      | 依赖环境 | 推荐指数                                                     | 备注                     | 下载地址                                                     |
 | ------------------ | ------------- | -------- | ------------------------------------------------------------ | ------------------------ | ------------------------------------------------------------ |
+| 天狐渗透工具箱V3.0 | :window: / 🍎	 | 无 | :star: :star: :star: :star: :star: :star: :star: :star::star::star::star::star::star::star::star::star::star::star::star::star::star::star:|   适合新手直接使用   | <a href="https://www.one-fox.cn/th/index.html">链接</a> |
 | CACM | :window:	 | 无 | :star: :star: :star: :star: :star: :star: :star: :star::star:|   linux后渗透+权限维持   | <a href="https://github.com/RuoJi6/CACM">链接</a> |
 | 天狐渗透工具箱-社区版V2.0纪念版 | :window:	 | 无 | :star: :star: :star: :star: :star: :star: :star: :star::star:|   适合新手直接使用    | <a href="https://pan.baidu.com/s/1BiLFnoOV4c2fJMpwsOGCcA?pwd=ofox">链接</a> |
 | FoxBypass_V1.0 | :window:	 | 无 | :star: :star: :star: :star: :star: :star: :star: :star::star:|   分离免杀加载器工具   | <a href="https://pan.quark.cn/s/6b625a91b80b">链接</a> |
@@ -50,6 +51,21 @@
 
 
 ## :rocket:工具截图
+<details>
+<summary><b>:yum:天狐渗透工具箱V3.0</b></summary>
+
+```
+天狐渗透工具箱V3.0
+```
+<img width="2100" height="1200" alt="image" src="https://github.com/user-attachments/assets/c8f4b331-0c51-4c7a-9855-290eb5073b1f" />
+
+<img width="2382" height="1341" alt="image" src="https://github.com/user-attachments/assets/0ed5be05-de9e-4487-89ee-8a5e933717b0" />
+
+
+
+</details>
+
+
 <details>
 <summary><b>:yum:CACM</b></summary>
 
